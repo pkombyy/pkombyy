@@ -1,5 +1,5 @@
 # Hi there, I'm Pkombyy! 👋
-### Senior Python Developer | Technical Architect | Team Lead @ Slash 🚀
+### Python Developer | Technical Architect | Team Lead @ Slash 🚀
 
 I am a professional Backend Developer and Architect with over 4 years of experience. I specialize in building complex, scalable systems from scratch, designing flexible data models, and leading technical teams to deliver high-quality products.
 
