@@ -33,4 +33,4 @@ I am a professional Backend Developer and Architect with over 4 years of experie
 ### 📫 Connect with me
 - **Email:** mlgenergy36@gmail.com
 - **Current Role:** Team Lead @ Slash
-- **Location:** Tyumen (Ready for Relocation)
+- **Location:** Tyumen
