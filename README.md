@@ -1,4 +1,4 @@
-# Hi there, I'm Pkombyy! 
+# Hi there, I'm Nikita! 
 ### Python Developer | Technical Architect | Team Lead @ Slash 
 
 I am a professional Backend Developer and Architect with over 5 years of experience. I specialize in building complex, scalable systems from scratch, designing flexible data models, and leading technical teams to deliver high-quality products.
@@ -11,7 +11,7 @@ I am a professional Backend Developer and Architect with over 5 years of experie
 - **Backend:** `FastAPI` `Django` `SQLAlchemy` `Pydantic` `Celery` `Aiohttp`
 - **Databases:** `PostgreSQL` (Optimization/Triggers/EAV) `Redis` `MongoDB` `MySQL`
 - **Infrastructure:** `Docker` `Linux` `CI/CD` `Nginx` `Microservices`
-- **Tools:** `Git` `Swagger/OpenAPI` `Bitrix24 API` `Aiogram`
+- **Tools:** `Git` `Swagger/OpenAPI` `Bitrix24 API` `Aiogram` `github actions`
 
 ---
 
@@ -31,7 +31,7 @@ I am a professional Backend Developer and Architect with over 5 years of experie
 ---
 
 ### 📫 Connect with me
-- **Telegram:** @grbagg
+- **Telegram:** @thes3x
 - **Email:** mlgenergy36@gmail.com
 - **Current Role:** Team Lead @ Slash
 - **Location:** Tyumen
