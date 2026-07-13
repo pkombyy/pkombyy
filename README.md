@@ -24,12 +24,6 @@ I am a professional Backend Developer and Architect with over 5 years of experie
 
 ---
 
-###  GitHub Activities
-![Pkombyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=pkombyy&show_icons=true&theme=radical&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkombyy&layout=compact&theme=radical)
-
----
-
 ### 📫 Connect with me
 - **Telegram:** @thes3x
 - **Email:** mlgenergy36@gmail.com
